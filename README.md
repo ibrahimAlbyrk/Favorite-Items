@@ -1,5 +1,5 @@
 
-# Unity Favorites Panel 🎯⭐
+# ⭐ Unity Favorites Panel
 
 A clean, user-friendly, and fully customizable **Favorites Panel** extension for the Unity Editor. Designed to help you quickly access, organize, and manage your most-used assets directly within the editor.
 
